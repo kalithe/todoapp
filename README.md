@@ -2,6 +2,8 @@ Jose Delgado
 
 # README
 
+Person One: Robert De Cort
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -24,3 +26,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Person 2 add your name here.
