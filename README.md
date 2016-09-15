@@ -1,8 +1,8 @@
-Jose Delgado
-
 # README
 
 Person One: Robert De Cort
+
+Person Two: Jose Delgado
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
